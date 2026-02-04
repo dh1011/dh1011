@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./profile-3d-contrib/profile-3d.svg" height="500" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" height="500" />
 </p>
