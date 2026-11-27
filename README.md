@@ -7,6 +7,7 @@ Most of what I make starts as something I wanted for my own workflow.
 
 ### Featured projects
 
+- **[clam](https://github.com/dh1011/clam)**: An AI assistant for your terminal. Type plain English at a Bash, zsh or PowerShell prompt and an agent answers, while ordinary commands run as usual; it asks before changing files or running anything. A single static Go binary for Linux, macOS, FreeBSD and Windows. [Website](https://dh1011.github.io/clam/)
 - **[Claude Code Mods](https://github.com/dh1011/claude-code-mods)**: UI mods for Claude Code that show PNGs inline under Read results and add per-block copy buttons, with `/copy-code` for keyboard access.
 - **[MCP for Firefox](https://github.com/dh1011/firefox-mcp)**: An MCP server and Firefox extension that let AI agents use your signed-in browser in tabs of their own, with a toolbar control to stop them.
 - **[hjkl: learn Vim by doing](https://hjkl.duy.run)**: Short, hands-on Vim editing challenges in the browser covering motions, text objects, search, marks, counts and repeats. Free, no sign-up.
